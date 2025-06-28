@@ -10,7 +10,7 @@ export const projects: Project[] = [
     technologies: ['Python', 'React', 'TensorFlow', 'PostgreSQL', 'Docker', 'Redis'],
     image: 'https://images.pexels.com/photos/590020/pexels-photo-590020.jpeg?auto=compress&cs=tinysrgb&w=1200',
     githubUrl: 'https://github.com',
-    liveUrl: 'https://demo.example.com',
+    liveUrl: 'https://github.com/rajagokulakrishnan676',
     featured: true
   },
   {
@@ -32,7 +32,7 @@ export const projects: Project[] = [
     category: 'Web Apps',
     technologies: ['Power BI', 'SQL Server', 'Python', 'Azure', 'DAX', 'Tableau'],
     image: 'https://images.pexels.com/photos/669615/pexels-photo-669615.jpeg?auto=compress&cs=tinysrgb&w=1200',
-    liveUrl: 'https://demo.example.com',
+    liveUrl: 'https://github.com/rajagokulakrishnan676',
     featured: true
   },
   {
@@ -43,7 +43,7 @@ export const projects: Project[] = [
     category: 'Automation',
     technologies: ['n8n', 'Node.js', 'PostgreSQL', 'Docker', 'AWS', 'OpenAI'],
     image: 'https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress&cs=tinysrgb&w=1200',
-    githubUrl: 'https://github.com',
+    githubUrl: 'https://github.com/rajagokulakrishnan676',
     featured: true
   },
   {
@@ -66,7 +66,7 @@ export const projects: Project[] = [
     category: 'Cybersecurity',
     technologies: ['Python', 'Bash', 'Metasploit', 'Nmap', 'Burp Suite', 'Kali Linux'],
     image: 'https://images.pexels.com/photos/1181677/pexels-photo-1181677.jpeg?auto=compress&cs=tinysrgb&w=1200',
-    githubUrl: 'https://github.com',
+    githubUrl: 'https://github.com/rajagokulakrishnan676',
     featured: false
   },
   {
@@ -101,7 +101,7 @@ export const projects: Project[] = [
     category: 'AI Tools',
     technologies: ['Python', 'spaCy', 'TensorFlow', 'scikit-learn', 'WebSockets', 'PyTorch', 'OpenAI GPT'],
     image: '/my-portfolio-blog/images/aiinterview.png',
-    githubUrl: 'https://github.com',
+    githubUrl: 'https://github.com/rajagokulakrishnan676',
     liveUrl: 'https://demo.example.com',
     featured: true
   }
