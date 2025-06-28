@@ -4,5 +4,6 @@ export const roles = [
   "Problem Solver",
   "Automation Geek",
   "Data Wizard",
-  "Code Craftsman"
+  "Code Craftsman",
+  "Hackathon Warrior"
 ];
