@@ -20,7 +20,7 @@ export const projects: Project[] = [
     longDescription: 'Cutting-edge media integrity solution that automatically detects, analyzes, and responds to deepfake threats in real-time. Seamlessly integrates with existing security and content verification systems, offers intelligent alerting, and features automated response workflows powered by machine learning-based deepfake classification.',
     category: 'Cybersecurity',
     technologies: ['Python', 'Deepsearch', 'InceptionV3', 'ML', 'Azure', 'OpenCV'],
-    image: 'src/components/images/deepfake.jpeg',
+    image: '/my-portfolio-blog/images/deepfake.jpeg',
     githubUrl: 'https://github.com',
     featured: true
   },
