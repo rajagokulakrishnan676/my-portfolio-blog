@@ -21,7 +21,7 @@ export const projects: Project[] = [
     category: 'Cybersecurity',
     technologies: ['Python', 'Deepsearch', 'InceptionV3', 'ML', 'Azure', 'OpenCV'],
     image: '/my-portfolio-blog/images/deepfake.jpeg',
-    githubUrl: 'https://github.com',
+    githubUrl: 'https://github.com/rajagokulakrishnan676/maya360',
     featured: true
   },
   {
@@ -54,8 +54,8 @@ export const projects: Project[] = [
     category: 'AI Tools',
     technologies: ['React', 'Python', 'Node.js ', 'Resumey.Py', 'Chart.js', 'PDFMiner '],
     image: 'https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=1200',
-    githubUrl: 'https://github.com',
-    liveUrl: 'https://demo.example.com',
+    githubUrl: 'https://github.com/rajagokulakrishnan676/ai-resume-analyzer',
+    liveUrl: 'https://rajagokulakrishnan676.github.io/ai-resume-analyzer/',
     featured: false
   },
   {
@@ -77,7 +77,8 @@ export const projects: Project[] = [
     category: 'Cybersecurity',
     technologies: ['Node.js', 'Python ', 'React.js', 'ML', 'Chart.js', 'WebSockets'],
     image: '/my-portfolio-blog/images/cyberattack.jpeg',
-    githubUrl: 'https://github.com',
+    githubUrl: 'https://github.com/rajagokulakrishnan676/cyber-attack-dashboard',
+    liveUrl: 'https://rajagokulakrishnan676.github.io/cyber-attack-dashboard/',
     featured: true
   },
   {
@@ -88,7 +89,8 @@ export const projects: Project[] = [
     category: 'Cybersecurity',
     technologies: ['Python', 'BeautifulSoup', 'TensorFlow', 'scikit-learn', 'Leaflet.js', 'spaCy'],
     image: '/my-portfolio-blog/images/botimg.webp',
-    githubUrl: 'https://github.com',
+    githubUrl: 'https://github.com/rajagokulakrishnan676/aiml-bot-detection',
+    liveUrl: 'https://rajagokulakrishnan676.github.io/aiml-bot-detection/',
     featured: true
   },
   {
