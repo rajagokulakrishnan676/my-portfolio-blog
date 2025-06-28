@@ -76,7 +76,7 @@ export const projects: Project[] = [
     longDescription: 'A cutting-edge media integrity and cybersecurity platform that automatically detects, analyzes, and responds to deepfake threats and broader cyber attacks in real-time. Features a powerful dashboard for visualizing attack vectors, threat patterns, and deepfake incidents. Seamlessly integrates with existing security and content verification systems, offers intelligent alerting, and enables automated incident response through machine learning-based threat classification and anomaly detection.',
     category: 'Cybersecurity',
     technologies: ['Node.js', 'Python ', 'React.js', 'ML', 'Chart.js', 'WebSockets'],
-    image: 'src/components/images/cyberattack.jpeg',
+    image: '/my-portfolio-blog/images/cyberattack.jpeg',
     githubUrl: 'https://github.com',
     featured: true
   },
@@ -87,7 +87,7 @@ export const projects: Project[] = [
     longDescription: 'A cutting-edge AI-driven platform that automatically detects, analyzes, and mitigates malicious bots on social media platforms in real-time. Leverages machine learning, behavior analysis, and network intelligence to identify inauthentic activity, fake engagements, and coordinated manipulation. Integrates seamlessly with social media monitoring tools and includes intelligent alerting, real-time dashboards, and automated incident response workflows for enterprise-grade media integrity and threat defense.',
     category: 'Cybersecurity',
     technologies: ['Python', 'BeautifulSoup', 'TensorFlow', 'scikit-learn', 'Leaflet.js', 'spaCy'],
-    image: 'src/components/images/botimg.webp',
+    image: '/my-portfolio-blog/images/botimg.webp',
     githubUrl: 'https://github.com',
     featured: true
   },
@@ -98,7 +98,7 @@ export const projects: Project[] = [
     longDescription: 'An intelligent interview support platform that leverages natural language processing and machine learning to assist interviewers in real-time. Features include dynamic question generation, candidate sentiment analysis, automated scoring, and detailed feedback reports. Built with Python and React, the system provides live behavioral insights, response quality tracking, and smart recommendations to streamline and enhance the interview process.',
     category: 'AI Tools',
     technologies: ['Python', 'spaCy', 'TensorFlow', 'scikit-learn', 'WebSockets', 'PyTorch', 'OpenAI GPT'],
-    image: 'src/components/images/aiinterview.png',
+    image: '/my-portfolio-blog/images/aiinterview.png',
     githubUrl: 'https://github.com',
     liveUrl: 'https://demo.example.com',
     featured: true

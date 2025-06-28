@@ -235,7 +235,7 @@ const Hero: React.FC<HeroProps> = ({ onScrollToSection }) => {
               >
                 {/* Placeholder for personal image */}
                 <div className="aspect-[4/5] bg-gradient-to-br from-purple-400 to-pink-400 rounded-2xl flex items-center justify-center text-white text-6xl font-bold shadow-2xl">
-                  <img src="src/components/images/mine.jpg" alt="" />
+                  <img src="/my-portfolio-blog/images/mine.jpg" alt="Creator Image" />
                 </div>
                 
                 {/* Floating Elements */}
