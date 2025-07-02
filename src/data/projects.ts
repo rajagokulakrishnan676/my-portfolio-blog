@@ -9,7 +9,7 @@ export const projects: Project[] = [
     category: 'AI Tools',
     technologies: ['Python', 'React', 'TensorFlow', 'PostgreSQL', 'Docker', 'Redis'],
     image: 'https://images.pexels.com/photos/590020/pexels-photo-590020.jpeg?auto=compress&cs=tinysrgb&w=1200',
-    githubUrl: 'https://github.com',
+    githubUrl: 'https://github.com/rajagokulakrishnan676',
     liveUrl: 'https://github.com/rajagokulakrishnan676',
     featured: true
   },
