@@ -102,7 +102,7 @@ export const projects: Project[] = [
     technologies: ['Python', 'spaCy', 'TensorFlow', 'scikit-learn', 'WebSockets', 'PyTorch', 'OpenAI GPT'],
     image: '/my-portfolio-blog/images/aiinterview.png',
     githubUrl: 'https://github.com/rajagokulakrishnan676',
-    liveUrl: 'https://demo.example.com',
+    liveUrl: ' https://rajagokulakrishnan676.github.io/AiJobHelper/',
     featured: true
   }
 ];
